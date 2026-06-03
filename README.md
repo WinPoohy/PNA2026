@@ -37,3 +37,5 @@ lab3/
 │   └── main/
 │       └── index.js          # Класс MainPage, содержащий логику и верстку главного экрана
 ├── index.html                # Единственная HTML
+```
+<img width="2485" height="1409" alt="image" src="https://github.com/user-attachments/assets/807a4dd7-8fb5-4243-bb31-ef2285fb261c" />
