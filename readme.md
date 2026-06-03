@@ -73,4 +73,5 @@
     width: 100%;
     border-radius: 35px;
 }
-<img width="2486" height="1396" alt="image" src="https://github.com/user-attachments/assets/8c2bb818-2e84-4b3f-b450-3595c56dc76d" />
+```
+<img width="2486" height="1396" alt="image" src="https://github.com/user-attachments/assets/46755c1c-3b6d-416c-98d6-9c3652265b35" />
