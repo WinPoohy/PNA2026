@@ -9,12 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.2.1",
-    "cors": "^2.8.5",
-    "three": "^0.160.0"
+    "three": "^0.160.1"
   },
   "devDependencies": {
-    "vite": "^5.1.4",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "vite": "^5.1.4"
   }
 }
